@@ -1,0 +1,15 @@
+D:\Работа над ошибками\Task6\bin\Debug\net6.0\Task6.exe
+D:\Работа над ошибками\Task6\bin\Debug\net6.0\Task6.deps.json
+D:\Работа над ошибками\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+D:\Работа над ошибками\Task6\bin\Debug\net6.0\Task6.dll
+D:\Работа над ошибками\Task6\bin\Debug\net6.0\Task6.pdb
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.dll
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\refint\Task6.dll
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.pdb
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+D:\Работа над ошибками\Task6\obj\Debug\net6.0\ref\Task6.dll
